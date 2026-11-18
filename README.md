@@ -68,7 +68,7 @@ kinetictype-cv/
 ### Installation
 
 ```bash
-git clone [https://github.com/tahaenasraoui-debug/kinetictype-cv.git](https://github.com/tahaenasraoui-debug/kinetictype-cv.git)
+git clone https://github.com/tahaenasraoui-debug/kinetictype-cv.git
 cd kinetictype-cv
 npm install
 npm run dev
